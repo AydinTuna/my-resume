@@ -25,10 +25,7 @@ h2 {
 
 /* mobile */
 /* navigation */
-.container {
-  /* about */
-  /* contact */
-}
+
 .container #navigation {
   box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.2784313725);
   margin-top: 0;
@@ -314,4 +311,4 @@ h2 {
   .container #about .experiences ul li {
     margin: 0.5rem 1.5rem;
   }
-}/*# sourceMappingURL=style.css.map */
+}
